@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5B504570-DA6C-44CA-8F3C-D7FF5D5B6C6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PigLatinGUI/Form1.cs">
+    <Files>
+      <File FileName="PigLatinGUI/Form1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PigLatinGUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
